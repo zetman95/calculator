@@ -1,0 +1,12 @@
+.box {
+    border: 5px solid #46244C;
+    background: rgb(70, 36, 76, 0.6);
+}
+
+.calc {
+    margin: 15px
+}
+
+.inputValue{
+    border: 2px solid #46244C !important;
+}
